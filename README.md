@@ -1,6 +1,6 @@
 # Hello! 👋
 
-<img src="https://raw.githubusercontent.com/Riley-McGaugheyENE/Riley-McGaugheyENE/master/PersonalBanner.png" alt="Designed Personal Banner" height="310"></a>
+<img src="https://raw.githubusercontent.com/Riley-McGaugheyENE/Riley-McGaugheyENE/master/Personal Banner.png" alt="Designed Personal Banner" height="310"></a>
 
 I'm Riley, a Michigan-based Environmental EIT and recent MSU graduate with a B.S. in Environmental Engineering.
 With creativity and ambition as my driving forces, I'm determiend to use engineering talents to protect the environment through developing Earth-inspired solutions. 🌱
