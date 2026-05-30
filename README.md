@@ -1,6 +1,5 @@
 ## Hello! 👋
-
-I'm Riley, a Michigan-based Environmental EIT and a recent MSU graduate with a B.S. in Environmental Engineering.
+I'm Riley, a Michigan-based Environmental EIT and recent MSU graduate with a B.S. in Environmental Engineering.
 With creativity and ambition as my driving forces, I'm determiend to use engineering talents to protect the environment through developing Earth-inspired solutions. 🌱
 <img src="https://raw.githubusercontent.com/Riley-McGaugheyENE/Riley-McGaugheyENE/master/PersonalLogo.png" alt="Designed Personal Logo" height="140"></a>
 ### About Me:
