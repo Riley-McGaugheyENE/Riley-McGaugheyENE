@@ -14,6 +14,10 @@ With creativity and ambition as my driving forces, I'm determiend to use enginee
   - Hobbies: I additionally enjoy painting, playing the trumpet (and am teaching myself in my free time), creating planners for just about everything, and constantly learning new skills
   - Pronouns: She/Her/Hers
 
-## How to Reach Me:
+## How to Find Me:
   - 📧 Email: rmcgaugheyENE@outlook.com
   - 💻 LinkedIn: www.linkedin.com/in/riley-mcgaughey-1b3420306
+  - 🪪 Credly Badge:
+    
+    [<img width="150" height="150" alt="fe-exam" src="https://github.com/user-attachments/assets/7c531f7e-ab6b-458c-8d6b-d671048cb1fa" />](www.credly.com/badges/d9f3b3ba-a30a-49ac-ae20-db868f0fd664/public_url)
+
